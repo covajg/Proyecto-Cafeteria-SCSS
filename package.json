@@ -24,5 +24,9 @@
   "browserslist": [
     "last 1 version",
     "> 1%"
-  ]
+  ],
+  "dependencies": {
+    "gulp-connect": "^5.7.0",
+    "gulp-open": "^3.0.1"
+  }
 }
